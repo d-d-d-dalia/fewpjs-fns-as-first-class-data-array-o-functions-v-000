@@ -11,7 +11,7 @@ function leashDog(a, b) {
 }
 
 function walkToPark(a, b) {
-  console.log(`Walk to the park with ${a} the ${b}`)
+  const string = `Walk to the park with ${a} the ${b}`
   console.log(string)
   return string
 }
