@@ -27,5 +27,3 @@ function exerciseDog(dogName, dogBreed) {
 }
 
 const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
-
-exerciseDog()
