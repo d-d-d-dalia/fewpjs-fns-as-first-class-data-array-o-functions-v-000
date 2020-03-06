@@ -5,7 +5,8 @@ function wakeDog(a, b) {
 }
 
 function leashDog(a, b) {
-  console.log(`Leash ${a} the ${b}`)
+  const string = `Leash ${a} the ${b}`
+  console.log(string)
 }
 
 function walkToPark(a, b) {
