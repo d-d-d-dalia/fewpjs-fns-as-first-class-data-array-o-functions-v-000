@@ -12,18 +12,26 @@ function leashDog(a, b) {
 
 function walkToPark(a, b) {
   console.log(`Walk to the park with ${a} the ${b}`)
+  console.log(string)
+  return string
 }
 
 function throwFrisbee(a, b) {
   console.log(`Throw the frisbee for ${a} the ${b}`)
+  console.log(string)
+  return string
 }
 
 function walkHome(a, b) {
   console.log(`Walk home with ${a} the ${b}`)
+  console.log(string)
+  return string
 }
 
 function unleashDog(a, b) {
   console.log(`Unleash ${a} the ${b}`)
+  console.log(string)
+  return string
 }
 
 function exerciseDog(dogName, dogBreed) {
