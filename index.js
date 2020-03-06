@@ -1,6 +1,6 @@
 function wakeDog(a, b) {
   string = `Wake ${a} the ${b}`
-  console.log(`${string}`)
+  console.log(string)
   return string
 }
 
