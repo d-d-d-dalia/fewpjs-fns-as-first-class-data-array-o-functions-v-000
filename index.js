@@ -22,4 +22,10 @@ function unleashDog() {
   console.log("Unleash Byron the poodle")
 }
 
+function exerciseDog(dogName, dogBreed) {
+  routine.forEach(func, ) {
+    
+  }
+}
+
 const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
