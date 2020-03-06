@@ -23,7 +23,7 @@ function unleashDog(a, b) {
 }
 
 function exerciseDog(dogName, dogBreed) {
-  return routine.map(func => func(dogName, dogBreed))
+  const array = routine.map(func => func(dogName, dogBreed))
 }
 
 const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
