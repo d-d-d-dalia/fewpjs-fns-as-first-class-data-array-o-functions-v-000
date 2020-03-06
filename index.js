@@ -17,13 +17,13 @@ function walkToPark(a, b) {
 }
 
 function throwFrisbee(a, b) {
-  console.log(`Throw the frisbee for ${a} the ${b}`)
+  const string = `Throw the frisbee for ${a} the ${b}`
   console.log(string)
   return string
 }
 
 function walkHome(a, b) {
-  console.log(`Walk home with ${a} the ${b}`)
+  const string = `Walk home with ${a} the ${b}`
   console.log(string)
   return string
 }
