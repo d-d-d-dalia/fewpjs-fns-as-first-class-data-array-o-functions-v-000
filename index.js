@@ -1,25 +1,25 @@
 function wakeDog(a, b) {
-  console.log("Wake Byron the poodle")
+  console.log(`Wake ${a} the poodle`)
 }
 
 function leashDog(a, b) {
-  console.log("Leash Byron the poodle")
+  console.log(`Leash ${a} the poodle`)
 }
 
 function walkToPark(a, b) {
-  console.log("Walk to the park with Byron the poodle")
+  console.log(`Walk to the park with ${a} the poodle`)
 }
 
 function throwFrisbee(a, b) {
-  console.log("Throw the frisbee for Byron the poodle")
+  console.log(`Throw the frisbee for ${a} the poodle`)
 }
 
 function walkHome(a, b) {
-  console.log("Walk home with Byron the poodle")
+  console.log(`Walk home with ${a} the poodle`)
 }
 
 function unleashDog(a, b) {
-  console.log("Unleash Byron the poodle")
+  console.log(`Unleash ${a} the poodle`)
 }
 
 function exerciseDog(dogName, dogBreed) {
