@@ -1,5 +1,5 @@
 function wakeDog(a, b) {
-  string = `Wake ${a} the ${b}`
+  const string = `Wake ${a} the ${b}`
   console.log(string)
   return string
 }
