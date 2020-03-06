@@ -21,3 +21,5 @@ function walkHome() {
 function unleashDog() {
   console.log("Unleash Byron the poodle")
 }
+
+const routine = [wakeDog, ]
