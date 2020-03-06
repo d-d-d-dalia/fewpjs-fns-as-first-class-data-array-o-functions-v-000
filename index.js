@@ -1,24 +1,24 @@
-function wakeDog() {
+function wakeDog(a, b) {
   console.log("Wake Byron the poodle")
 }
 
-function leashDog() {
+function leashDog(a, b) {
   console.log("Leash Byron the poodle")
 }
 
-function walkToPark() {
+function walkToPark(a, b) {
   console.log("Walk to the park with Byron the poodle")
 }
 
-function throwFrisbee() {
+function throwFrisbee(a, b) {
   console.log("Throw the frisbee for Byron the poodle")
 }
 
-function walkHome() {
+function walkHome(a, b) {
   console.log("Walk home with Byron the poodle")
 }
 
-function unleashDog() {
+function unleashDog(a, b) {
   console.log("Unleash Byron the poodle")
 }
 
