@@ -26,4 +26,4 @@ function exerciseDog(dogName, dogBreed) {
   return routine.map(func => func(dogName, dogBreed))
 }
 
-const routine = [wakeDog(), leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
+const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
