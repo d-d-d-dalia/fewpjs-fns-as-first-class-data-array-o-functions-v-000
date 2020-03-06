@@ -1,5 +1,5 @@
 function wakeDog(a, b) {
-  console.log(`Wake ${a} the ${b}`)
+  return console.log(`Wake ${a} the ${b}`)
 }
 
 function leashDog(a, b) {
