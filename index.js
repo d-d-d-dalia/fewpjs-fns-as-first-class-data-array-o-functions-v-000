@@ -29,7 +29,7 @@ function walkHome(a, b) {
 }
 
 function unleashDog(a, b) {
-  console.log(`Unleash ${a} the ${b}`)
+  const string = `Unleash ${a} the ${b}`
   console.log(string)
   return string
 }
